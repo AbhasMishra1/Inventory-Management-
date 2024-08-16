@@ -1,2 +1,2 @@
-# Inventory-Management-
+# SQL-
 Has SQL project
